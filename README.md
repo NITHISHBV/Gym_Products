@@ -1,2 +1,3 @@
 # PRODIGY_WD_01
-Gym Gear responsive landing web page
+This project is given by the PRODIGY as task 01
+see DEMO
